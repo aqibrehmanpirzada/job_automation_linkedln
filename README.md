@@ -3,7 +3,7 @@ This is an web scraping bot that automates the process of job applications on Li
 
 
 ## 📽️ Live Demo of our Product
-[![Auto Job Applier demo video](https://github.com/GodsScion/Auto_job_applier_linkedIn/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
+[![Auto Job Applier demo video](https://github.com/GodsScion/Auto_job_applier_linkedIn/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://drive.google.com/file/d/13hPAtP_gaRtwJvd2EX8m9vAnjo7S-xDy/view?pli=1)
 Click on above image to watch the demo or use this link https://youtu.be/gMbB1fWZDHw
 
 
