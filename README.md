@@ -243,11 +243,8 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 <br>
 
 ## 🐧 Socials
-- **LinkedIn** : https://www.linkedin.com/in/saivigneshgolla/
-- **Email**    : saivigneshgolla@outlook.com
-- **X/Twitter**: https://x.com/gods_scion
-- **Discord**  : godsscion
-
+- **LinkedIn** : https://www.linkedin.com/company/qult-ai/posts/?feedView=all
+- **Email**    : aqib.pirzada@qult.ai
 
 ## 🙌 Community Support and Discussions
 - **Discord Server** : https://discord.gg/fFp7uUzWCY
