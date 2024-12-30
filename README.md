@@ -129,8 +129,8 @@ By doing so, you can empower others in their job hunt, just as you've been empow
 As an independent developer, I pour my heart and soul into creating tools like this, driven by the genuine desire to make a positive impact. Your support, whether through donations or simply spreading the word, means the world to me and helps keep this project alive and thriving.
 
 You can connect and reach me out at:
-- LinkedIn  :  https://www.linkedin.com/in/saivigneshgolla/
-- Email     :  saivigneshgolla@outlook.com
+- LinkedIn  :  https://www.linkedin.com/company/qult-ai/posts/?feedView=all
+- Email     :  aqib.pirzada@qult.ai
 
 <br>
 
