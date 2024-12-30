@@ -122,8 +122,6 @@ As you continue your job search, I hope this tool has provided you with valuable
 
 To continue improving and maintaining this tool, I rely on the support of users like you. If you believe in its mission and want to contribute, you can support me by sharing about this project with your peers and network.
 
-If you need a post to communicate about it: https://www.linkedin.com/posts/saivigneshgolla_jobsearch-jobapplication-careerdevelopment-activity-7166416367628341249-WE_8
-
 By doing so, you can empower others in their job hunt, just as you've been empowered.. Every contribution, big or small, makes a significant impact!
 
 As an independent developer, I pour my heart and soul into creating tools like this, driven by the genuine desire to make a positive impact. Your support, whether through donations or simply spreading the word, means the world to me and helps keep this project alive and thriving.
@@ -137,71 +135,8 @@ You can connect and reach me out at:
 Thank you for being part of this journey, and remember that together, we can make a real difference in the lives of job seekers worldwide.
 
 With heartfelt appreciation, <br>
-**Sai Vignesh Golla**
-
 <br>
 <br>
-
-
-
-## 🗓️ Major Updates History:
-### Nov 28, 2024
-- Patched to work for latest changes in Linkedin.
-- Users can now select to follow or not follow companies when submitting application.
-- Frameworks for future AI Developments have been added.
-- AI can now be used to extract skills from job description. 
-
-### Oct 16, 2024
-- Framework for OpenAI API and Local LLMs
-- Framework for RAG
-
-### Sep 09, 2024
-- Smarter Auto-fill for salaries and notice periods
-- Robust Search location filter, will work in window mode (No need for full screen)
-- Better logic for Select and Radio type questions
-- Proper functioning of Decline to answer questions in Equal Employment opportunity questions
-- Checkbox questions select fail bug fixed
-- Annotations are clearer in instructions for setup
-
-### Sep 07, 2024
-- Annotations for developers
-- Robust input validations
-- Restructured config file
-- Fixed pagination bug
-
-### Aug 21, 2024
-- Performance improvements (skip clicking on applied jobs and blacklisted companies)
-- Stop when easy apply application limit is reached
-- Added ability to discard from pause at submission dialogue box
-- Added support for address input
-- Bug fixed radio questions, added support for physical disability questions
-- Added framework for future config file updates
-
-### June 19, 2024
-- Major Bug fixes (Text Area type questions)
-- Made uploading default resume as not required
-
-### May 15, 2024
-- Added functionality for textarea type questions `summary`, `cover_letter`(Summary, Cover letter); checkbox type questions (acknowledgements)
-- Added feature to skip irrelevant jobs based on `bad_words` 
-- Improved performance for answering questions
-- Logic change for masters students skipping
-- Change variable names `blacklist_exceptions` -> `about_company_good_words` and `blacklist_words` -> `about_company_bad_words`
-- Added session summary for logs
-- Added option to turn off "Pause before Submit" until next run
-
-### May 05, 2024
-- For questions similar to "What is your current location?", City posted in Job description will be posted as the answer if `current_city` is left empty in the configuration
-- Added option to over write previously saved answers for a question `overwrite_previous_answers`
-- Tool will now save previous answer of a question
-- Tool will now collect all available options for a Radio type or Select type question
-- Major update in answering logic for Easy Apply Application questions
-- Added Safe mode option for quick stable launches `safe_mode`
-
-### May 04, 2024
-- Added option to fill in "City, state, or zip code" search box `search_location`
-- Bug fixes in answering City or location question
-
 
 [back to index](#-content)
 
@@ -228,8 +163,6 @@ Please consider the following:
 
 
 ## ⚖️ License
-
-Copyright (C) 2024 Sai Vignesh Golla  <saivigneshgolla@outlook.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
