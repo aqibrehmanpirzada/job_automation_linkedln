@@ -7053,3 +7053,30 @@ https://www.linkedin.com/in/saivigneshgolla/
 
 
 Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+In Applier Main
+Invalid input for username. Expecting a String of length at least 5!
+2024-12-30 18:57:54.784409
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+Opportunities don't happen, you create them. - Chris Grosser
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
