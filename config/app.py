@@ -1,10 +1,10 @@
 from flask import Flask, request, render_template_string
-import config_secrets  # Update to the new file name
+import config_config_secrets  # Update to the new file name
 
 app = Flask(__name__)
 
 # Path to the file where credentials are stored
-CONFIG_FILE = "config_secrets.py"  # Updated filename to secrets.py
+CONFIG_FILE = "config_config_secrets.py"  # Updated filename to config_secrets.py
 
 # HTML form template with embedded CSS
 form_html = """

@@ -1,16 +1,4 @@
-'''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
-
-Copyright (C) 2024 Sai Vignesh Golla
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
-
-version:    24.12.3.10.30
-'''
+ 
 
 
 
@@ -137,10 +125,10 @@ def validate_search() -> None | ValueError | TypeError:
 
 
 
-from config.secrets import *
-def validate_secrets() -> None | ValueError | TypeError:
+from config.config_secrets import *
+def validate_config_secrets() -> None | ValueError | TypeError:
     global __validation_file_path
-    __validation_file_path = "config/secrets.py"
+    __validation_file_path = "config/config_secrets.py"
 
     check_string(username, "username", min_length=5)
     check_string(password, "password", min_length=5)
@@ -190,7 +178,7 @@ def validate_config() -> bool | ValueError | TypeError:
     validate_personals()
     validate_questions()
     validate_search()
-    validate_secrets()
+    validate_config_secrets()
     validate_settings()
 
     # validate_String(chatGPT_username, "chatGPT_username")

@@ -1,18 +1,3 @@
-'''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
-
-Copyright (C) 2024 Sai Vignesh Golla
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
-
-version:    24.12.3.10.30
-'''
-
-
 # Imports
 import os
 import csv
@@ -32,7 +17,7 @@ from selenium.common.exceptions import NoSuchElementException, ElementClickInter
 from config.personals import *
 from config.questions import *
 from config.search import *
-from config.secrets import use_AI, username, password
+from config.config_secrets import use_AI, username, password
 from config.settings import *
 
 from modules.open_chrome import *
@@ -105,7 +90,7 @@ def is_logged_in_LN() -> bool:
 def login_LN() -> None:
     '''
     Function to login for LinkedIn
-    * Tries to login using given `username` and `password` from `secrets.py`
+    * Tries to login using given `username` and `password` from `config_secrets.py`
     * If failed, tries to login using saved LinkedIn profile button if available
     * If both failed, asks user to login manually
     '''

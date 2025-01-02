@@ -7080,3 +7080,153 @@ https://www.linkedin.com/in/saivigneshgolla/
 
 
 Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+In Applier Main
+Invalid input for username. Expecting a String of length at least 5!
+2025-01-02 17:01:58.858921
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. - Steve Jobs
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+All the best with your future interviews.
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Login successful!
+
+########################################################################################################################
+
+Date and Time: 2025-01-02 17:06:04.438213
+Cycle number: 1
+Currently looking for jobs posted within 'Any time' and sorting them by 'Most recent'
+The CSV file 'all excels/all_applied_applications_history.csv' does not exist.
+
+________________________________________________________________________________________________________________________
+
+
+>>>> Now searching for "Machine Learning" <<<<
+
+
+Setting search location as: "Pakistan"
+
+-@-
+
+Trying to Apply to "Artificial Intelligence Engineer | Lorven Technologies Inc" job. Job ID: 4114992286
+
+About the job
+We are looking for a full life-cycle machine learning, deep learning and gen ai engineer. This is a remote WFH role, you must be a hands-on engineer, you must have a Masters Degree in ML or AI. You must have prior experience in ML, DL and GenAI. This is a full-time permanent role. You will be working on all kinds of interesting ideas, applying your experience and knowledge in ML | DL | GEN AI.
+
+Deep knowledge in generative modeling techniques, such as GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders).
+
+Deep familiarity with LLM relevant concepts (Transformer model architectures, Prompt Engineering, Orchestration, Model Fine Tuning, Retrieval Augmented Generation (RAG) pattern and architectures and small to large LLM models/technologies (such as OpenAI, Hugging Face, Bloom, Vicuna, Palm, Cohere, LLama, Gemini, CoPilot, Falcon 40B, Mistral).
+
+Experience in designing and delivering solutions that leverage GenAI technologies, such as LLMs (Large Language Models) or Foundation Models for other data modalities; experience working with both smaller LLMs from 2 billion parameters as well as larger LLMs with 1.7 to 2 trillion parameters.
+
+Experience with deploying RAG pattern with enterprise applications such as Oracle ERP, SFDC, Infor, and others.
+
+Knowledge of fine-tuning techniques for LLMs to adapt them to specific tasks and domains.
+Deep knowledge of AI and ML technologies such as supervised learning, reinforcement learning, computer vision and recommendation systems.
+
+Deep knowledge of MLOps practices for deploying and maintaining machine learning models in production.
+
+Experience with cloud platforms such as AWS or Google Cloud.
+
+Strong programming skills in Python and familiarity with libraries/APIs such as Langchain, llamIndex, or similar.
+
+Experience with machine learning frameworks such as TensorFlow, PyTorch, or similar.
+
+Proficiency with vector stores, semantic search, GraphDB and related technologies.
+
+Build APIs for LLMs and also for internal systems- API / Microservices.
+
+Familiarity with MLX framework or training/inferencing on Nvidia GPU or Silicon
+
+Couldn't find experience requirement in About the Job!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('how many years of work experience do you have with python (programming language)?', '3', 'text', '3'), ('mobile phone number', '3086799794', 'text', '3086799794'), ('how many years of experience do you have with llms?', '1', 'text', ''), ('Email address [  "Select an option", "aqibrehmanpirzada75@gmail.com", ]', 'Yes', 'select', 'aqibrehmanpirzada75@gmail.com'), ('how many years of experience do you have with gans (generative adversarial networks), vaes (variational autoencoders)?', '1', 'text', ''), ('how many years of work experience do you have with pytorch?', '1', 'text', ''), ('how many years of experience do you have with model creation?', '1', 'text', ''), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'Pakistan (+92)'), ('how many years of work experience do you have with tensorflow?', '1', 'text', '')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Done'
+Successfully saved "Artificial Intelligence Engineer | Lorven Technologies Inc" job. Job ID: 4114992286 info
+
+-@-
+
+Trying to Apply to "Google Cloud Data Engineer | HyperNy" job. Job ID: 4111045081
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('mobile phone number', '3086799794', 'text', '3086799794'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'Pakistan (+92)'), ('Email address [  "Select an option", "aqibrehmanpirzada75@gmail.com", ]', 'Yes', 'select', 'aqibrehmanpirzada75@gmail.com')}
+Click Failed! Didn't find 'Review'
+Failed to Easy apply!
+Somewhere in Easy Apply process
+Job application discarded by user!
+2025-01-02 17:06:57.076490
+Failed to find Job listings!
+In Applier
+HTTPConnectionPool(host='localhost', port=48931): Max retries exceeded with url: /session/82a629fb8ca987ae6ca28a7679fa3fca/actions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f85eeb24d10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-01-02 17:06:57.112262
+In Applier Main
+HTTPConnectionPool(host='localhost', port=48931): Max retries exceeded with url: /session/82a629fb8ca987ae6ca28a7679fa3fca/source (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f85eeb0dc90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-01-02 17:06:57.128904
+
+
+Total runs:                     1
+Jobs Easy Applied:              1
+External job links collected:   0
+                              ----------
+Total applied or collected:     1
+
+Failed jobs:                    1
+Irrelevant jobs skipped:        0
+
+
+If you're tired, learn to take rest but never give up.
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...

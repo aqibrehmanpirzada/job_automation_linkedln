@@ -1,19 +1,7 @@
-'''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
-
-Copyright (C) 2024 Sai Vignesh Golla
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
-
-version:    24.12.3.10.30
-'''
+ 
 
 
-from config.secrets import *
+from config.config_secrets import *
 from config.settings import showAiErrorAlerts
 from config.personals import ethnicity, gender, disability_status, veteran_status
 from config.questions import *
@@ -75,7 +63,7 @@ def ai_create_openai_client() -> OpenAI:
     try:
         print_lg("Creating OpenAI client...")
         if not use_AI:
-            raise ValueError("AI is not enabled! Please enable it by setting `use_AI = True` in `secrets.py` in `config` folder.")
+            raise ValueError("AI is not enabled! Please enable it by setting `use_AI = True` in `config_secrets.py` in `config` folder.")
         
         client = OpenAI(base_url=llm_api_url, api_key=llm_api_key)
 
@@ -90,7 +78,7 @@ def ai_create_openai_client() -> OpenAI:
         print_lg("---- SUCCESSFULLY CREATED OPENAI CLIENT! ----")
         print_lg(f"Using API URL: {llm_api_url}")
         print_lg(f"Using Model: {llm_model}")
-        print_lg("Check './config/secrets.py' for more details.\n")
+        print_lg("Check './config/config_secrets.py' for more details.\n")
         print_lg("---------------------------------------------")
 
         return client

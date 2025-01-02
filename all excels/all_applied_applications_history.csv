@@ -1,0 +1,28 @@
+Job ID,Title,Company,Work Location,Work Style,About Job,Experience required,Skills required,HR Name,HR Link,Resume,Re-posted,Date Posted,Date Applied,Job Link,External Job link,Questions Found,Connect Request
+4114992286,Artificial Intelligence Engineer,Lorven Technologies Inc,rven Technologies Inc,rven Technologies Inc,"About the job
+We are looking for a full life-cycle machine learning, deep learning and gen ai engineer. This is a remote WFH role, you must be a hands-on engineer, you must have a Masters Degree in ML or AI. You must have prior experience in ML, DL and GenAI. This is a full-time permanent role. You will be working on all kinds of interesting ideas, applying your experience and knowledge in ML | DL | GEN AI.
+
+Deep knowledge in generative modeling techniques, such as GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders).
+
+Deep familiarity with LLM relevant concepts (Transformer model architectures, Prompt Engineering, Orchestration, Model Fine Tuning, Retrieval Augmented Generation (RAG) pattern and architectures and small to large LLM models/technologies (such as OpenAI, Hugging Face, Bloom, Vicuna, Palm, Cohere, LLama, Gemini, CoPilot, Falcon 40B, Mistral).
+
+Experience in designing and delivering solutions that leverage GenAI technologies, such as LLMs (Large Language Models) or Foundation Models for other data modalities; experience working with both smaller LLMs from 2 billion parameters as well as larger LLMs with 1.7 to 2 trillion parameters.
+
+Experience with deploying RAG pattern with enterprise applications such as Oracle ERP, SFDC, Infor, and others.
+
+Knowledge of fine-tuning techniques for LLMs to adapt them to specific tasks and domains.
+Deep knowledge of AI and ML technologies such as supervised learning, reinforcement learning, computer vision and recommendation systems.
+
+Deep knowledge of MLOps practices for deploying and maintaining machine learning models in production.
+
+Experience with cloud platforms such as AWS or Google Cloud.
+
+Strong programming skills in Python and familiarity with libraries/APIs such as Langchain, llamIndex, or similar.
+
+Experience with machine learning frameworks such as TensorFlow, PyTorch, or similar.
+
+Proficiency with vector stores, semantic search, GraphDB and related technologies.
+
+Build APIs for LLMs and also for internal systems- API / Microservices.
+
+Familiarity with MLX framework or training/inferencing on Nvidia GPU or Silicon",0,Needs an AI,Venky Tag,https://www.linkedin.com/in/venky-tag-79b63321a,AteebAhmad_AI.pdf,False,2025-01-02 16:57:31.958509,2025-01-02 17:06:42.530336,https://www.linkedin.com/jobs/view/4114992286,Easy Applied,"{('how many years of work experience do you have with python (programming language)?', '3', 'text', '3'), ('mobile phone number', '3086799794', 'text', '3086799794'), ('how many years of experience do you have with llms?', '1', 'text', ''), ('Email address [  ""Select an option"", ""aqibrehmanpirzada75@gmail.com"", ]', 'Yes', 'select', 'aqibrehmanpirzada75@gmail.com'), ('how many years of experience do you have with gans (generative adversarial networks), vaes (variational autoencoders)?', '1', 'text', ''), ('how many years of work experience do you have with pytorch?', '1', 'text', ''), ('how many years of experience do you have with model creation?', '1', 'text', ''), ('Phone country code [ ""List of phone country codes"" ]', 'Yes', 'select', 'Pakistan (+92)'), ('how many years of work experience do you have with tensorflow?', '1', 'text', '')}",In Development
