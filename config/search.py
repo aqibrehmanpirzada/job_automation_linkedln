@@ -1,8 +1,3 @@
- 
-
-
-###################################################### LINKEDIN SEARCH PREFERENCES ######################################################
-
 # These Sentences are Searched in LinkedIn
 # Enter your search terms inside '[ ]' with quotes ' "searching title" ' for each search followed by comma ', ' Eg: ["Software Engineer", "Software Developer", "Selenium Developer"]
 search_terms = ["Machine Learning", "AI Engineer", "ML Engineer", "Machine Learning"]
@@ -11,11 +6,10 @@ search_terms = ["Machine Learning", "AI Engineer", "ML Engineer", "Machine Learn
 search_location = "Pakistan"               # Some valid examples: "", "United States", "India", "Chicago, Illinois, United States", "90001, Los Angeles, California, United States", "Bengaluru, Karnataka, India", etc.
 
 # After how many number of applications in current search should the bot switch to next search? 
-switch_number = 30                 # Only numbers greater than 0... Don't put in quotes
+switch_number = 60                # Only numbers greater than 0... Don't put in quotes
 
 # Do you want to randomize the search order for search_terms?
 randomize_search_order = False     # True of False
-
 
 # >>>>>>>>>>> Job Search Filters <<<<<<<<<<<
 ''' 
@@ -56,14 +50,8 @@ commitments = []                   # (dynamic multiple select)
 under_10_applicants = False        # True or False, Note: True or False are case-sensitive
 in_your_network = False            # True or False, Note: True or False are case-sensitive
 fair_chance_employer = False       # True or False, Note: True or False are case-sensitive
-
-
-
-
-
-
 ## >>>>>>>>>>> SKIP IRRELEVANT JOBS <<<<<<<<<<<
- 
+
 # Avoid applying to these companies, and companies with these bad words in their 'About Company' section...
 about_company_bad_words = ["Crossover"]       # (dynamic multiple search) or leave empty as []. Ex: ["Staffing", "Recruiting", "Name of Company you don't want to apply to"]
 
@@ -82,27 +70,3 @@ did_masters = False                 # True or False, Note: True or False are cas
 # Avoid applying to jobs if their required experience is above your current_experience. (Set value as -1 if you want to apply to all ignoring their required experience...)
 current_experience = -1             # Integers > -2 (Ex: -1, 0, 1, 2, 3, 4...)
 ##
-
-
-
-
-
-
-
-
-############################################################################################################
-'''
-THANK YOU for using my tool 😊! Wishing you the best in your job hunt 🙌🏻!
-
-Sharing is caring! If you found this tool helpful, please share it with your peers 🥺. Your support keeps this project alive.
-
-Support my work on <PATREON_LINK>. Together, we can help more job seekers.
-
-As an independent developer, I pour my heart and soul into creating tools like this, driven by the genuine desire to make a positive impact.
-
-Your support, whether through donations big or small or simply spreading the word, means the world to me and helps keep this project alive and thriving.
-
-Gratefully yours 🙏🏻,
-Sai Vignesh Golla
-'''
-############################################################################################################

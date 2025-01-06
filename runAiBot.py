@@ -3,29 +3,24 @@ import os
 import csv
 import re
 import pyautogui
-
 from random import choice, shuffle, randint
 from datetime import datetime
-
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, NoSuchWindowException, ElementNotInteractableException
-
 from config.personals import *
 from config.questions import *
 from config.search import *
 from config.config_secrets import use_AI, username, password
 from config.settings import *
-
 from modules.open_chrome import *
 from modules.helpers import *
 from modules.clickers_and_finders import *
 from modules.validator import validate_config
 from modules.ai.openaiConnections import *
-
 from typing import Literal
 
 
@@ -1065,7 +1060,7 @@ def main() -> None:
             "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford",
             "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
             ])
-        msg = f"\n{quote}\n\n\nBest regards,\nSai Vignesh Golla\nhttps://www.linkedin.com/in/saivigneshgolla/\n\n"
+        msg = f"\n{quote}\n\n\nBest regards,\n From ARPZ Automation System \nhttps://www.linkedin.com/in/aqibrehmanpirzada/\n\n"
         pyautogui.alert(msg, "Exiting..")
         print_lg(msg,"Closing the browser...")
         if tabs_count >= 10:
