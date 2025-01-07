@@ -5,7 +5,6 @@
 first_name = "Aqib"                 # Your first name in quotes Eg: "First", "Sai"
 middle_name = "Rehman"            # Your name in quotes Eg: "Middle", "Vignesh", ""
 last_name = "Pirzada"                # Your last name in quotes Eg: "Last", "Golla"
-
 # Phone number (required), make sure it's valid.
 phone_number = "03086799794"        # Enter your 10 digit number in quotes Eg: "9876543210"
 
@@ -14,7 +13,6 @@ current_city = "Islamabad"                  # Los Angeles, San Francisco, etc.
 '''
 Note: If left empty as "", the bot will fill in location of jobs location.
 '''
-
 # Address, not so common question but some job applications make it required!
 street = "123 Main Street"
 state = "STATE"
@@ -46,4 +44,5 @@ Some valid examples are:
 * variable3 = "Random Answer 5"         # Enter your answer. Eg: "Answer1", "Answer2"
 
 Invalid inputs will result in an error!
+
 '''

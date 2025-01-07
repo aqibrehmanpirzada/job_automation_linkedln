@@ -1,3 +1,5 @@
 myenv/
 .myenv/
 .codegpt
+__pycache__
+.__pycache__
